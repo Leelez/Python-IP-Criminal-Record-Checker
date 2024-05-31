@@ -12,7 +12,7 @@ To use this tool insert your APIs keys in the code:
 Type in the file's directory cmdline: "python pytool.py " followed by the ip you want to check.
 ![image](https://github.com/Leelez/Python-IP-Criminal-Record-Checker/assets/148364991/b533edb5-44e7-4278-88b5-d9356dda169c)
 
-In the screenshot i checked a TOR exit node, if you CTRL+leftclick on the Subnet Report you will be sent to the AbuseIpDb's list of reported ips in the /24 or more subnet (based to the checked ip).
+In the screenshot i checked a TOR exit node, if you CTRL+leftclick on the Subnet Report you will be sent to the AbuseIpDb's list of reported ips in the /24 or smaller subnet (based to the checked ip).
 ![image](https://github.com/Leelez/Python-IP-Criminal-Record-Checker/assets/148364991/162a3cad-534f-44f9-ae55-e504e66a36f2)
 
 If you meet some code errors concerning the region, don't panic, almost always they concern Hong Kong or Taiwan...It's my and those stoner's fault. 
