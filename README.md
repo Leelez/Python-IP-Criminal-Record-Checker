@@ -5,8 +5,9 @@ This program relies on the AbuseIpDb, Criminal IP, ProxyCheck, Virustotal and Sp
 
 If you expect to find a clean and optimized form of code, change repository :) ...a better version will come soon, I hope.
 
-To use this tool insert your APIs keys in the code:
+To use this tool install all modules and insert your APIs keys in the code:
 
+![image](https://github.com/Leelez/Python-IP-Criminal-Record-Checker/assets/148364991/6befd33e-6bf8-4715-9a25-23d2a6734056)
 ![image](https://github.com/Leelez/Python-IP-Criminal-Record-Checker/assets/148364991/c9827ce0-ca03-4281-a93f-88ba7c3307cc)
 
 Type in the file's directory cmdline: "python pytool.py " followed by the ip you want to check.
